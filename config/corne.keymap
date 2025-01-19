@@ -29,7 +29,7 @@
 		
 		&trans &kp ESC    &bt BT_CLR &kp NON_US_BSLH &kp NON_US_HASH  &kp TILDE2 			&kp MINUS &kp GRAVE &kp LBKT &kp RBKT  &kp DEL &trans 
 		
-					&kp RSFT     &mo 1  &kp LGUI  					&kp RGUI &mo 2 &kp RSFT
+					&kp RCTL     &mo 1  &kp LGUI  					&kp SPC &mo 2 &kp RALT
 					>;
 		};
 		
@@ -41,7 +41,7 @@
 
 		&trans &kp LSFT    &kp KPLS &kp LBKT &kp RBKT   &kp BSLH    				&kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT &trans 
 		
-					&kp RSFT  &mo 1 &kp LCTL  				&kp SPC  &mo 2 &kp RSFT
+					&kp LCTL  &mo 1 &kp LGUI  						&kp SPC  &mo 2 &kp RALT
 		>;
 		};	
         
