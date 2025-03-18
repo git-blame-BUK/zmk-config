@@ -39,7 +39,7 @@
 
 		&trans &kp HASH  &kp QMARK  &kp FSLH  &kp COLN  &kp SCLN 			&kp MINUS &kp KP_EQUAL  &kp LBRC  &kp RBRC   &kp BKSP &trans 
 
-		&trans &kp LSFT    &kp KPLS &kp LBKT &kp RBKT   &kp BSLH    				&kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT &trans 
+		&trans &kp LSFT    &kp KPLS &kp S(KC_QUOT) &kp KC_QUOT   &kp BSLH    				&kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT &trans 
 		
 					&kp LCTL  &mo 1 &kp RALT  						&kp SPC  &mo 2 &kp RALT
 		>;
